@@ -1,0 +1,47 @@
+.page{
+    width:780px;
+    margin: auto;
+    font-family:century,Georgia, 'Times New Roman', Times, serif sans-serif;
+    font-size: 16px;
+}
+.infophoto{
+    display: flex;
+    justify-content:space-around ;
+    height: 250px;
+}
+.info{
+    margin-left:0px;
+}
+.photo{
+    width: px;
+    height: 100px;
+    float: right;
+}
+.section{
+    margin-bottom: 90px;
+    text-align:center;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size:20px ;
+
+}
+.sec-droite{
+    float:left 10px;
+
+}h2{
+    font-size: 25px;
+    color: #486090;
+    border-bottom: 3px solid#486090;
+}
+.titre{
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+#forma-gauche p{
+    margin: bottom 200px; 
+
+}
+}
